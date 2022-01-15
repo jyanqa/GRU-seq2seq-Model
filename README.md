@@ -8,6 +8,7 @@
 - Built model is tested on the 'dirty' data. BLEU-4 is the metric used to evaluate the performance NMT model. 
 
 - The experiment reveals that word-level noises have less ability to break seq2seq model meanwhile randomizing character noises including Fully Random and Middle Random are two character-level noises whose the most negative affect to the model.  
-# Data
+
 [Data](https://drive.google.com/drive/folders/1RItIHESxFAYdWY2DQ-kmnRz2soOQh7zE?usp=sharing)
+
 [Report](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final/Noises_and_Seq2seqRNN_NMT.pdf)
