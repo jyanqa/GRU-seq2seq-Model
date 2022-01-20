@@ -11,3 +11,5 @@
 
 [Data](https://drive.google.com/drive/folders/1RItIHESxFAYdWY2DQ-kmnRz2soOQh7zE?usp=sharing) |
  [Code](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final/code_seq2seq/seq2seq_RNN.ipynb) | [Report](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final/Noises_and_Seq2seqRNN_NMT.pdf)
+
+This is a course project for [NLP class](https://rycolab.io/classes/intro-nlp-f21/) at ETHZ.
