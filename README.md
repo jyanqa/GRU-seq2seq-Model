@@ -3,6 +3,7 @@
 
 **Do noises break GRU Seq2Seq Translation Model?**
 <p align="justify">
+ 
 - The project aims to assess the robustness of the Seq2Seq neural machine translation by testing trained model on data which had been added different types of noises. The research is thus focused on presenting these features in the setting of French-English translation. 
 
 - Two big general categories of noises including character-level and word-level are added to the clean texts. 
