@@ -14,4 +14,4 @@
 </p>
 
 [Data](https://drive.google.com/drive/folders/1RItIHESxFAYdWY2DQ-kmnRz2soOQh7zE?usp=sharing) |
- [Code](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final/code_seq2seq/seq2seq_RNN.ipynb) | [Report](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final/Noises_and_Seq2seqRNN_NMT.pdf)
+ [Code](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final%20copy/code_seq2seq/seq2seq_RNN.ipynb) | [Report](https://github.com/jyanqa/GRU-seq2seq-Model/blob/main/final/Noises_and_Seq2seqRNN_NMT.pdf)
